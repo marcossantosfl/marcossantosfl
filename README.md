@@ -11,10 +11,10 @@
         * Spring Boot
         * Hibernate
         * Angular 8 >
-        * Database
+        * Database/MySQL/SQL/PostGree
         * Git
         * Microservices/Rest API
-        * Windows Server / Windows / Mac
+        * JSON
 ### Contact
    * [LinkedIn](https://www.linkedin.com/in/marcos-santos-dev/)
    * [Marcos Web](https://www.marcossan.dev/)
