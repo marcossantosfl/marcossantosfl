@@ -16,5 +16,5 @@
         * Microservices/Rest API
         * Windows Server / Windows / Mac
 ### Contact
-        [Linkedin](https://www.linkedin.com/in/marcos-santos-dev/)
-        [Marcos Web](https://www.marcossan.dev/)
+   * [Linkedin](https://www.linkedin.com/in/marcos-santos-dev/)
+   * [Marcos Web](https://www.marcossan.dev/)
