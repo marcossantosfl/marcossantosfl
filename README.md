@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Marcos
+I am Marcos, Full Stack Developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
