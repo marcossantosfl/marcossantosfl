@@ -5,11 +5,14 @@
         * 🧭 Owner of a bot system software.
 
 ### Skills
-        * PHP Web Developer
-        * PHP with Laravel
+        * :bulb: PHP/PHP Laravel
         * Java Web and Desktop Developer
+        * HTML/CSS/JavaScript
         * Spring Boot
         * Hibernate
         * Angular 8 >
         * Database
+        * Git
+        * Microservices/Rest API
+        * Windows Server / Windows / Mac
 ### Contact
