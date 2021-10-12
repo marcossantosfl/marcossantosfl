@@ -5,7 +5,7 @@
         * 🧭 Owner of a bot system software.
 
 ### Skills
-        * :bulb: PHP/PHP Laravel
+        * PHP/PHP Laravel
         * Java Web and Desktop Developer
         * HTML/CSS/JavaScript
         * Spring Boot
@@ -16,3 +16,5 @@
         * Microservices/Rest API
         * Windows Server / Windows / Mac
 ### Contact
+        [Linkedin](https://www.linkedin.com/in/marcos-santos-dev/)
+        [Marcos Web](https://www.marcossan.dev/)
