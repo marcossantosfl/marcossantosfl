@@ -6,6 +6,8 @@
 
 ### Skills
         * PHP/PHP Laravel
+        * Node JS
+        * C#
         * Java Web and Desktop Developer
         * HTML/CSS/JavaScript
         * Spring Boot
