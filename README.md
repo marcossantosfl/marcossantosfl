@@ -2,7 +2,7 @@
 
  I am Marcos, Full Stack Developer.
 
-        * 🧭 Owner of a bot system software.
+        * 🧭 Owner of a web scrappping system.
 
 ### Skills
         * PHP/PHP Laravel
