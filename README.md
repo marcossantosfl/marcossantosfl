@@ -18,5 +18,4 @@
         * Microservices/Rest API
         * JSON
 ### Contact
-   * [LinkedIn](https://www.linkedin.com/in/marcos-santos-dev/)
-   * [Marcos Web](https://www.marcossan.dev/)
+   * [LinkedIn](https://www.linkedin.com/in/marcos-santos-stack/)
