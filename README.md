@@ -14,9 +14,9 @@ I'm Marcos, a passionate Full Stack Developer.
         * Others: Microservices, Rest API, JSON, Web Scraping
 
 ### Projects
-        * Ticketwise
-        * Attendin
+   * Ticketwise https://www.ticketwise.me/
+   * Attendin https://www.attendin.xyz/
 
 ### Contact
-        * [LinkedIn](https://www.linkedin.com/in/marcos-santos-stack/)
-        * [Github] (Note: Some of My GitHub repositories are private due to the nature of the projects)
+   * [LinkedIn](https://www.linkedin.com/in/marcos-santos-stack/)
+   * [Github] (Note: Some of My GitHub repositories are private due to the nature of the projects)
