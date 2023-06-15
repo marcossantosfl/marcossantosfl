@@ -25,10 +25,6 @@ My name is Marcos Santos, and I am a passionate Full Stack Developer.
 
 *Note: Some of my GitHub repositories are private due to the nature of the projects.*
 
-## 📝 CV and Skills
-
-For a more detailed look at my skills and experience, please check out my [CV](add_the_link_to_your_cv_here). 
-
 ### Experience
 
 I have worked on numerous projects throughout my academic journey, acquiring practical experience in various programming languages and technologies. I developed an automation system, migrated it to a multi-user platform, and led the development of a ticketing platform called [Ticketwise](https://ticketwise.me/).
