@@ -7,7 +7,7 @@ My name is Marcos Santos, and I am a passionate Full Stack Developer.
 
 ## 💻 Skills
 
-- **Languages:** PHP (Laravel), Node.js, C#, Java (Web and Desktop), C++, HTML, CSS, JavaScript
+- **Languages:** PHP (Laravel), Node.js, C#, Java (Web and Desktop), C++, HTML, CSS, JavaScript, React
 - **Frameworks:** Spring Boot, Hibernate, Angular 8+, Next.js
 - **Databases:** MySQL, SQL, PostgreSQL
 - **Version Control:** Git
