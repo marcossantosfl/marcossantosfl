@@ -1,11 +1,15 @@
 Hello there, I'm Marcos Santos! 👋
-I'm a Full Stack Developer who's deeply passionate about building innovative applications. I love working on all layers of application development, front and back, and have a knack for integrating third-party APIs. My main expertise lies in creating highly performant web solutions, and I'm adept at coding in any language that the task requires.
+
+I'm a Full Stack Developer who's deeply passionate about building innovative applications. 
+I love working on all layers of application development, front and back, and have a knack for integrating third-party APIs. 
+My main expertise lies in creating highly performant web solutions, and I'm adept at coding in any language that the task requires.
 
 🔭 Current Work
 Presently, I'm honing my skills on Ticketwise, a challenging project developed using Angular 15 SSR and Node.js.
 
 🌱 Continuous Learning
-Beyond traditional full-stack development, I am deeply interested in computer system architecture, specifically x64/x86 architecture. I enjoy working with Assembly, performing software disassembly, and making modifications to already compiled software. I'm always on the lookout for ways to delve deeper into the mechanics of how things work.
+Beyond traditional full-stack development, I am deeply interested in computer system architecture, specifically x64/x86 architecture. 
+I enjoy working with Assembly, performing software disassembly, and making modifications to already compiled software. I'm always on the lookout for ways to delve deeper into the mechanics of how things work.
 
 In addition, I have a strong affinity for cybersecurity. I have been involved in developing mitigators and anti-DDoS solutions, striving to make the digital world a safer place.
 
@@ -17,8 +21,10 @@ Frameworks: Spring Boot, Hibernate, Angular 8+, Next.js
 Databases: MySQL, SQL, PostgreSQL, MongoDB
 Version Control: Proficient with Git
 Others: Well-versed with Microservices, REST API, JSON, and Web Scraping
+
 🎯 Signature Projects
 Ticketwise: An application designed to streamline event ticketing and management.
+
 📫 How to Reach Me
 Feel free to connect with me on LinkedIn, or check out my projects on Github. Please note that some of my GitHub repositories are private due to the nature of the projects.
 
