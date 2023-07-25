@@ -2,7 +2,7 @@
 
 My name is Marcos Santos, and I am a passionate Full Stack Developer. 
 
-- 🔭 Currently, I am working on [Ticketwise](https://www.ticketwise.me/), a project developed with Next.js and Node.js.
+- 🔭 Currently, I am working on [Ticketwise](https://tickpluswise.com/), a project developed with Next.js and Node.js.
 - 🌱 I am also actively learning and specializing in Artificial Intelligence.
 
 ## 💻 Skills
