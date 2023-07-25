@@ -15,8 +15,7 @@ My name is Marcos Santos, and I am a passionate Full Stack Developer.
 
 ## 🎯 Projects
 
-- [Ticketwise](https://www.ticketwise.me/)
-- [Attendin](https://www.attendin.xyz/)
+- [Ticketwise](https://tickpluswise.com/)
 
 ## 📫 Contact
 
