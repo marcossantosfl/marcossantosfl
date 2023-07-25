@@ -1,5 +1,4 @@
 Hello there, I'm Marcos Santos! 👋
-
 I'm a Full Stack Developer who's deeply passionate about building innovative applications. I love working on all layers of application development, front and back, and have a knack for integrating third-party APIs. My main expertise lies in creating highly performant web solutions, and I'm adept at coding in any language that the task requires.
 
 🔭 Current Work
